@@ -1,10 +1,10 @@
-# titanic_survival_exploration
+# titanic_survival
 
 ## Overview
 
 This python project aims to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features (pclass, name, sex, age, sibsp, parch, ticket, fare, cabin, embarked).
 
-The main code [`titanic_survival_exploration.ipynb`](https://github.com/adsasmita/titanic_survival_exploration/blob/master/titanic_survival_exploration.ipynb) is presented in a [Jupyter Notebook](https://github.com/jupyter/notebook) / iPython notebook for readability purposes.
+The main code [`titanic_survival.ipynb`](https://github.com/adsasmita/titanic_survival/blob/master/titanic_survival.ipynb) is presented in a [Jupyter Notebook](https://github.com/jupyter/notebook) / iPython notebook for readability purposes.
 
 Visualization codes are contained in [`visuals.py`](https://github.com/adsasmita/titanic_survival_exploration/blob/master/visuals.py)
 
