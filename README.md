@@ -4,7 +4,9 @@
 
 This code aims to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features,
 
-The main code for testing the architecture is presented in a [Jupyter Notebook](https://github.com/jupyter/notebook) / iPython notebook for readability purposes.
+The main code [`titanic_survival_exploration.ipynb`](https://github.com/adsasmita/titanic_survival_exploration/blob/master/titanic_survival_exploration.ipynb) is presented in a [Jupyter Notebook](https://github.com/jupyter/notebook) / iPython notebook for readability purposes.
+
+Visualization codes are contained in [`visuals.py`](https://github.com/adsasmita/titanic_survival_exploration/blob/master/visuals.py)
 
 ## Data
 
